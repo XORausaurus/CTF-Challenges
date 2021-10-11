@@ -1,0 +1,5 @@
+I think I made a good hash function based on AES. Could you test this?
+
+nc good-hash.chal.perfect.blue 1337
+
+Author: rbtree

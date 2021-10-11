@@ -1,0 +1,3 @@
+Not Password is a program where you, well... type not a password and totally does not check your password for correctness.
+
+Author: theKidOfArcrania

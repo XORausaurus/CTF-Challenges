@@ -1,0 +1,1 @@
+I upgraded our flag checker to Python 3.10.0b1. Can you figure it out?

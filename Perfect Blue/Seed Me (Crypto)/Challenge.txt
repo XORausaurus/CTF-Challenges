@@ -1,0 +1,5 @@
+I came up with this fun game that only lucky people can win. Do you feel lucky?
+
+nc seedme.chal.perfect.blue 1337
+
+Author: UnblvR

@@ -1,0 +1,3 @@
+I found a weird stream cipher scheme. Can you break this?
+
+Author: rbtree

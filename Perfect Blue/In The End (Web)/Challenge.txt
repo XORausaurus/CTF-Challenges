@@ -1,0 +1,11 @@
+I tried so hard and got so far, But in the end it doesn't even matter?
+
+    Note: The bot likes to view and click on stuff you send.
+
+Remote: http://in-the-end.chal.perfect.blue:81/hooks/{webhook_key_for_instance}
+
+Author: knapstack
+
+P.S.: This challenge is limited to three attempts per team. Open a "Support Ticket (#support-ticket)" through our discord chat and provide us your "Team Code", and we will provide you a time expiry bound remote instance dedicated to your team. We will not handout webhook key if you do not have local exploit. Make sure your exploit works reliably locally before contacting us and using your attempts.
+
+We will only accept demo enrollment until T+47 hours. No more enrollement would be accept in last one hour
