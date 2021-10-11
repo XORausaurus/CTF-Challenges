@@ -1,0 +1,3 @@
+The hash to crack is 52ed4b109a2662fdf15edfd95632667869fc5802
+
+Please provide the answer in the flag submission format: DO{...}

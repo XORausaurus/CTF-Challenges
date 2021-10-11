@@ -1,0 +1,5 @@
+Our website was hacked recently and the attackers completely ransomwared our server!
+
+We've recovered it now, but we don't want it to happen again. 
+
+Here are the logs from before the attack, can you find out what happened?

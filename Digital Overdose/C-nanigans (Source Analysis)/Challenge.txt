@@ -1,0 +1,3 @@
+Find the flag parts in the source code, assemble the flag, submit the flag.
+
+(This code may not compile, and it is useless to attempt to do so)

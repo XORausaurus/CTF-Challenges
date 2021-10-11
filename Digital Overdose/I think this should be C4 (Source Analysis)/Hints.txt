@@ -1,0 +1,21 @@
+Obfuscation
+
++!+[] = 1 +![] = 0
+
+(+!+[]+!+[])(x) = 2 to the power of x
+
+Numbers in the format of h 2^7 + g 2^6 + f 2^5 + e 2^4+ d 2^3 + c 2^2 + b 2^1 + a 2^0 -> if a-h is 1 then the nth bit from the right in the binary representation of the number is 1, else it's 0.
+
+(+!+[]+!+[])(+!+[]) + (+!+[]+!+[])(+!+[]+!+[]+!+[]) + (+!+[]+!+[])(+!+[]+!+[]+!+[]+!+[]) = 21 + 23 + 24 = 0b00011010 = 26
+
+So Φ[(+!+[]+!+[])(+!+[]) + (+!+[]+!+[])(+!+[]+!+[]+!+[]) + (+!+[]+!+[])(+!+[]+!+[]+!+[]+!+[])] is actually Φ[26] -> 'UvSgI5/_M26b<z]Ks+e)rn!l}1=p 0Z$`3A.kf^jD>a{yBC(4Y|9;c-G%N?8xho,7:t[iWmuF&"d*LE'[26] -> '='
+
+You can decode the entire file like that.
+
+
+
+
+
+After deobfuscation
+
+Go around and take every anonymous function and make a new function out of it, then call it. don't hesitate to download the source and play with it there.

@@ -1,0 +1,3 @@
+Where in Japan does this mascot represent?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). E.g. DO{...}

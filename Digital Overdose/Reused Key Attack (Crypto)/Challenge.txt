@@ -1,0 +1,3 @@
+How about using the same key for PRNG and AES?
+
+!!! The flag is in another format: D0{...} - Read D-Zero !!!

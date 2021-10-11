@@ -1,0 +1,9 @@
+Where sector was this photo taken from?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). E.g. DO{...}
+
+(1 word)
+
+A methodology for solving this
+
+Mapping political coverage of posters.

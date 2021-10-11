@@ -1,0 +1,3 @@
+Where was this photo taken from?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). E.g. DO{...}

@@ -1,0 +1,5 @@
+What square was this photo taken from?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). Dashes (-) should be left as they are. E.g. DO{...}
+
+(1 word, hyphenated)

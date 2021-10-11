@@ -1,0 +1,3 @@
+What building is in this picture?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). E.g. DO{...}

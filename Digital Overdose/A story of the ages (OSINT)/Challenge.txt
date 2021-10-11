@@ -1,0 +1,5 @@
+What mythological creature is this?
+
+Please submit the answer with the flag format, replacing all spaces (⠀) with underscores (_). E.g. DO{...}
+
+(1 word)

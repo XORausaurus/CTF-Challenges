@@ -1,0 +1,11 @@
+We were contracted by a client to do a little investigation of an employee of theirs about to release new specs of their next generation smart phone to their competitors.
+
+Rumor has it the entire back of the phone will be covered in camera lenses, bleeding edge technology. 
+
+Things started off fine, and we intercepted dead drop that we suspect had the specs.
+
+However it was just an old Bokia Eden phone from 1998. Likely the files are on it but if we type the wrong password in too many times it'll wipe itself.
+
+This is literally all we got from our investigator who we had originally looking into it who mysteriously dropped the case after coming into a lot of money. All we found on the his directory was a single bitmap file. 
+
+See if you can make something of it.
