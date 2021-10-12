@@ -1,0 +1,11 @@
+We made a tetris game but we’re not sure whether it’s actually winnable. Can
+you please check?
+
+If you execute on hardware that sucks (i.e. not GT740M, GTX970, GTX1080,
+RTX2060, UHD 620, UHD 630, or any AMD) or software that sucks (i.e. not OpenGL
+version 4.6) the program might complain that some GL function was not loaded.
+This is not necessarily a hard error. It’s a hard error if it crashes. :)
+
+But even hard errors are, unfortunately, totally your problem.
+
+Good luck.

@@ -1,0 +1,7 @@
+Damn hxp!
+They cranked up the security requirements again.
+Now every user needs to use a “hxp token” to retrieve flags.
+
+At least I captured some traffic of a user setting up a token.
+
+Can you help me getting the flag?

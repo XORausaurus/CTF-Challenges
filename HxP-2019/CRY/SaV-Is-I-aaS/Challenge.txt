@@ -1,0 +1,5 @@
+Connection:
+
+url='http://78.47.240.226:60601' && ip=$(curl -s "$url/ip") && sig=$(curl -s
+-d "cmd=ls -l&ip=$ip" "$url/sign") && curl --data-urlencode "signature=$sig"
+"$url/exec"

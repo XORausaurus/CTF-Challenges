@@ -1,0 +1,12 @@
+Because AES is so hard to understand, we went looking for something that is a
+little easier to follow. This paper
+(http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.333.3694&rep=rep1&type=pdf)
+
+introduces an encrypted protocol that “prevents an attacker from recovering
+the transmitted information through operations on the encrypted vectors
+exchanged during the transmission procedure” - in fact, the paper even assures
+us that “the only identified way one can compromise the protocol security is
+by applying brute force attacks”. Since this is a peer-reviewed paper (by
+subject-matter experts, no less) we can be sure that our data is safe! My
+colleagues are still a bit concerned, though, so I am running this little test
+in order to prove that the protocol is secure.

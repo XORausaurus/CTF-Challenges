@@ -1,0 +1,4 @@
+Revenge time: Please hack.
+
+Note: For reasons semi-beyond our control, the binary sometimes crashes when
+you connect. Please just retry if this happens. Sorry for the inconvenience!
