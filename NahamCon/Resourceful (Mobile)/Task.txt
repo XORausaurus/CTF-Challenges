@@ -1,1 +1,0 @@
-I built my first ever android app with authentication! 
