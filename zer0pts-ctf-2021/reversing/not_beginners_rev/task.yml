@@ -1,0 +1,9 @@
+---
+name: "Not Beginner's Rev"
+description: >
+  <p>Writing the "Not Beginner's Stack" challenge, I realized the scheme can also be used for obfuscation.</p>
+flag: zer0pts{Yes_Its_https://www.hitachi.com/rd/yrl/crypto/mugi/mugi_spe.pdf}
+author: ptr-yudai
+tags:
+    - reversing
+is_survey: false

@@ -1,0 +1,12 @@
+---
+name: "Tokyo Network"
+description: >
+  <p>Koganei---Otemachi---Hakusan---Hongo</p>
+  <pre>nc {host} {port}</pre>
+flag: "zer0pts{Sh0r_c0d3+BB84_QKB=5t1ll_53cur3?}"
+author: ptr-yudai
+tags:
+    - misc
+host: others.ctf.zer0pts.com
+port: 11099
+is_survey: false

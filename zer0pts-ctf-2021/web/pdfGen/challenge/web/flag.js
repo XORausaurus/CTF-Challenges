@@ -1,0 +1,1 @@
+module.exports = 'zer0pts{4fraid_of_unintended)_D0nt_w4nn4_l3ak_1nf0_about_s0lut1on}';

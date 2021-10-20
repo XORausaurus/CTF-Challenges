@@ -1,0 +1,11 @@
+version: '3'
+services:
+  stopwatch:
+    build:
+      context: .
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "9002:9999"
+    entrypoint: /etc/init.sh

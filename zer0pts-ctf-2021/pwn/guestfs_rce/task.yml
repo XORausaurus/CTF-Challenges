@@ -1,0 +1,26 @@
+---
+name: "GuestFS:RCE"
+description: >
+  <p>RCE stands for Remote Command Execution.</p>
+  <p>Can you read the flag from your workspace?</p>
+  <ul>
+    <li><a href="http://{host}:{port}/" target="_blank">workspace 1</a></li>
+    <li><a href="http://any.ctf.zer0pts.com:9081/" target="_blank">workspace 2</a></li>
+    <li><a href="http://any.ctf.zer0pts.com:9082/" target="_blank">workspace 3</a></li>
+  </ul>
+  Hint:<br>
+  <code>
+  $ cat /proc/sys/fs/suid_dumpable<br>
+  1
+  </code>
+  <p><small>* The flag for GuestFS:AFR does not exist in this challenge.</small></p>
+  <p><small>* The server has the same files as those on GuestFS:AFR except for the flag.</small></p>
+  <p><small>* Please use the Dockerfile of GuestFS:AFR to test your exploit locally.</small></p>
+flag: "zer0pts{U_turn3d_4rb1tr4ry_F1l3_R/W_1nt0_RCE!R_U_a_M4g1c14n?}"
+author: ptr-yudai
+tags:
+    - web
+    - pwn
+host: any.ctf.zer0pts.com
+port: 9080
+is_survey: false

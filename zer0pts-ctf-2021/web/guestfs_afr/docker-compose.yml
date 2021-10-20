@@ -1,0 +1,7 @@
+version: "3"
+services:
+  guestfs_afr:
+    build:
+      context: .
+    ports:
+      - 8001:80

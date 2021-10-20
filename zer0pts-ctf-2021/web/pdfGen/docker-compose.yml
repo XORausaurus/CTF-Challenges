@@ -1,0 +1,48 @@
+version: '3'
+services:
+  challenge:
+    build: ./challenge/web
+    ports:
+      - 1337:8443
+    restart: always
+    networks:
+      vpcbr:
+        ipv4_address: 10.5.0.2
+  headful:
+    image: meik2333/headful-chrome-launch
+    links:
+      - challenge
+    ports:
+      - 5678:5678
+      - 5900:5900
+    extra_hosts:
+      pdfgen.ctf.zer0pts.com: 10.5.0.2
+    restart: always
+    networks:
+      vpcbr:
+        ipv4_address: 10.5.0.3
+  worker:
+    build: ./challenge/worker
+    links:
+      - challenge
+      - redis
+      - headful
+    restart: always
+    networks:
+      vpcbr:
+        ipv4_address: 10.5.0.4
+  redis:
+    build: ./challenge/redis
+    command: "redis-server /redis.conf"
+    ports:
+      - 6379:6379
+    restart: always
+    networks:
+      vpcbr:
+        ipv4_address: 10.5.0.5
+networks:
+  vpcbr:
+    ipam:
+     config:
+       - subnet: 10.5.0.0/16
+         gateway: 10.5.0.1

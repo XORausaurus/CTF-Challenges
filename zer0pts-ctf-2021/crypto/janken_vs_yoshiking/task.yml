@@ -1,0 +1,14 @@
+---
+name: janken vs yoshiking
+description: >
+  <p>
+  Yoshiking knows the flag. He will give the flag to who has gold luck. Let's play the janken with Yoshiking and prove your luck!<br />
+  <pre>nc {host} {port}</pre>
+  </p>
+flag: zer0pts{jank3n-jank3n-0ne-m0r3-batt13}
+author: theoldmoon0602
+tags:
+    - crypto
+host: crypto.ctf.zer0pts.com
+port: 10463
+is_survey: false

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  tokyo_network:
+    build:
+      context: .
+    working_dir: /home/ctf
+    container_name: tokyo_network
+    restart: always
+    ports:
+      - "11099:11099"

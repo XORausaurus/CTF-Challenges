@@ -1,0 +1,9 @@
+---
+name: "spotlight"
+description: >
+  <p>You can only see the one lit up by spotlight in the misty forest.</p>
+flag: zer0pts{KASUMI_c1ph3r_c4m3_fr0m_th3_J4p4n3s3_w0rd_f0r_MISTY}
+author: ptr-yudai
+tags:
+    - reversing
+is_survey: false

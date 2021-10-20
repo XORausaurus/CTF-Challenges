@@ -1,0 +1,9 @@
+---
+name: "syscall 777"
+description: >
+  <p>Did you know system call number 777 in Linux works as a flag checker?</p>
+flag: "zer0pts{B3rk3l3y_P4ck3t_F1lt3r:Y3t_4n0th3r_4ss3mbly}"
+author: ptr-yudai
+tags:
+    - reversing
+is_survey: false

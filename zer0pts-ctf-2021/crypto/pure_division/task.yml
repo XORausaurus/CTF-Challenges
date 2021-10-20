@@ -1,0 +1,8 @@
+---
+name: "pure division"
+description: >
+  I'd like to divide! Please help me.
+flag: "zer0pts{elliptic_curve_over_p-adic!yey!}"
+author: mitsu
+tags: [crypto]
+is_survey: false

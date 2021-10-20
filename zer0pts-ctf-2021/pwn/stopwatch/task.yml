@@ -1,0 +1,12 @@
+---
+name: "stopwatch"
+description: >
+  <p>-=-=-=-= RESULT =-=-=-=-<br>Name: yoshiking<br>Best Score: 0.006381</p>
+  <pre>nc {host} {port}</pre>
+flag: "zer0pts{l34k_fr0m_pr3c1s3ly-al1gn3d_un1n1t14l1z3d_buff3r}"
+author: ptr-yudai
+tags:
+    - pwn
+host: pwn.ctf.zer0pts.com
+port: 9002
+is_survey: false

@@ -1,0 +1,13 @@
+---
+name: "GuestFS:AFR"
+description: >
+  <p>AFR stands for Arbitrary File Read.</p>
+  <p>Can you read <code>/flag</code> from <a href="http://{host}:{port}/" target="_blank">your workspace</a>?</p>
+  <small>* The flag for GuestFS:RCE does not exist in this challenge.</small>
+flag: "zer0pts{[Use-After-FreeLink?](https://gruss.cc/files/uafmail.pdf)}"
+author: ptr-yudai
+tags:
+    - web
+host: web.ctf.zer0pts.com
+port: 8001
+is_survey: false

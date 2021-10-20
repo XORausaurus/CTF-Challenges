@@ -1,0 +1,8 @@
+---
+name: "easy pseudo random"
+description: >
+  It is cryptographically secure, right?
+flag: "zer0pts{is_blum_blum_shub_safe?}"
+author: mitsu
+tags: [crypto]
+is_survey: false

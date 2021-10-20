@@ -1,0 +1,13 @@
+---
+name: NOT Mordell primes
+description: >
+  <p>
+  I found one integral point on an elliptic curve, so there's finite number of integral solutions.<br />
+  This means You can pick from an finite number of primes... right? <br />
+  <small>special thanks: https://ctf.cr0wn.uk/challenges#Mordell%20primes-11</small>
+  </p>
+flag: zer0pts{7h4nk_y0u_j4ck_7h4nk_y0u_cr0wn}
+author: theoldmoon0602
+tags: [crypto]
+is_survey: false
+

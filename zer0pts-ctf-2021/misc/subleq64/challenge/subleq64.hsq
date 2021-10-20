@@ -1,0 +1,29 @@
+int putchar();
+
+int flag = "\x22\x46\xc2\x17\x2a\x95\xcf\x76\xbd\xee\xa3\xa2\x61\xda\x77\x62\x4a\x55\x2b\x46\x50\xe6\xa0\x80\xb0\x68\x1e\x9f\x4a\x9b\xc9\x8c\x0a\xad\xaf\x2a\xdb\x31\xf4\x7d\x3f\x39\x53\xaf\xd3\x37\xc8\x99\xb9\x5e\xef\x37\xbe\xff\x12\x81\x09\xac\xba\x0c";
+
+int m = 18446744073709551616;
+int a = 6364136223846793005;
+int c = 1442695040888963407;
+
+int seed = 17644285861079098374;
+
+int random() {
+    // we are 64-bit, so no need to mod m here
+    return seed = a * seed + c;
+}
+
+int main() {
+    int p = flag;
+    int nskip = 1;
+    while (*p) {
+        for (int i = 0; i < nskip; i++) {
+            random();
+        }
+        int secret = random();
+        putchar(*p - secret);
+        nskip = nskip * 2;
+        p++;
+    }
+    putchar("\n");
+}

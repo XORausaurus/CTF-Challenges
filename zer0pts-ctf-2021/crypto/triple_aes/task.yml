@@ -1,0 +1,13 @@
+---
+name: 3-AES
+description: >
+  <p>
+  3-DES is more secure than DES. Then, 3-AES is more secure than AES of course!
+  <pre>nc {host} {port}</pre>
+  </p>
+flag: "zer0pts{5kip_7h3_midd13_4nd_m337_in_7h3_midd13!}"
+author: theoldmoon0602
+tags: [crypto]
+host: crypto.ctf.zer0pts.com
+port: 10929
+is_survey: false

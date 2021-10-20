@@ -1,0 +1,12 @@
+---
+name: "nasm kit"
+description: >
+  <p>Let's learn assembly on this platform!</p>
+  <pre>nc {host} {port}</pre>
+flag: "zer0pts{mmap_1s_sup3r_d4ng3r0us:(}"
+author: ptr-yudai
+tags:
+    - pwn
+host: pwn.ctf.zer0pts.com
+port: 9005
+is_survey: false

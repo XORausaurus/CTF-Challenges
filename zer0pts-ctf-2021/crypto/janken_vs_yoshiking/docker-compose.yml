@@ -1,0 +1,7 @@
+version: '3'
+services:
+  janken:
+    build: ./
+    restart: on-failure:10
+    ports:
+      - 10463:9999

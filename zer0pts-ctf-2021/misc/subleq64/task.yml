@@ -1,0 +1,10 @@
+---
+name: Subleq64
+id: subleq64
+description: >
+  <p>Just run <code>subleq64.sq</code> and it will print the flag for you.</p>
+  <p>NB: <code>subleq64.sq</code> requires a 64-bit Subleq machine. You can buy one from our sponsors.</p>
+flag: zer0pts{OISC_1s_th3_futur3~0xbuyd0g3!0xb1tc01n$vCQW04nFV+Wz}
+author: (=^·u·^=)
+tags: [misc, reversing]
+is_survey: false

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  ot_or_not_ot:
+    build: ./
+    restart: on-failure:10
+    ports:
+      - 10130:9999

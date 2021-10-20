@@ -1,0 +1,11 @@
+version: '3'
+services:
+  safe_vector:
+    build:
+      context: .
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "9001:9999"
+    entrypoint: /etc/init.sh

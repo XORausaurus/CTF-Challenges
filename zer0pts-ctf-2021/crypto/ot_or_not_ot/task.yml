@@ -1,0 +1,11 @@
+---
+name: OT or NOT OT
+description: >
+  OT or NOT OT? <br />
+  <pre>nc {host} {port}</pre>
+flag: zer0pts{H41131uj4h_H41131uj4h}
+author: theoldmoon0602
+tags: [crypto]
+host: crypto.ctf.zer0pts.com
+port: 10130
+is_survey: false

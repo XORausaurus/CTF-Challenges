@@ -1,0 +1,8 @@
+---
+name: "war(sa)mup"
+description: >
+  Do you know RSA? I know.
+flag: "zer0pts{y0u_g07_47_13457_0v3r_1_p0in7}"
+author: theoldmoon0602
+tags: [crypto, warmup]
+is_survey: false

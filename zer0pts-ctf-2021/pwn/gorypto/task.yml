@@ -1,0 +1,13 @@
+---
+name: "gorypt"
+description: >
+  <p>C + AES = crypto<br>go + AES = gorypto</p>
+  <pre>nc {host} {port}</pre>
+  <p><small>* The binary is packed with UPX to reduce the size. (This is not important but we notify so that you won't get confused.)</small></p>
+flag: "zer0pts{runt1m3_st4ck_sh0u1d_b3_r4nd0m1z3d_t00}"
+author: ptr-yudai
+tags:
+    - pwn
+host: pwn.ctf.zer0pts.com
+port: 9003
+is_survey: false

@@ -1,0 +1,16 @@
+---
+name: "infected"
+description: >
+  <p>The backdoor is installed on this machine:</p>
+  <pre>nc {host} {port}</pre>
+  <p>or</p>
+  <pre>nc any.ctf.zer0pts.com 11011</pre>
+  <p>How can I use it to get the flag in <code>/root</code> directory?</p>
+flag: zer0pts{exCUSE_m3_bu7_d0_u_m1nd_0p3n1ng_7h3_b4ckd00r?}
+author: ptr-yudai
+tags:
+    - reversing
+    - warmup
+host: others.ctf.zer0pts.com
+port: 11011
+is_survey: false

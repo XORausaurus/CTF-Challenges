@@ -1,0 +1,13 @@
+---
+name: "Simple Blog"
+id: simple_blog
+description: >
+  <p>Now I am developing a blog service. I'm aware that there is a simple XSS. However, I introduced strong security mechanisms, named Content Security Policy and Trusted Types. So you cannot abuse the vulnerability in any modern browsers, including Firefox, right?</p>
+  <p><a href="http://{host}:{port}/" target="_blank">Challenge</a></p>
+flag: "zer0pts{1_w4nt_t0_e4t_d0m_d0m_h4mburger_s0med4y}"
+author: st98
+tags:
+    - web
+host: web.ctf.zer0pts.com
+port: 8003
+is_survey: false

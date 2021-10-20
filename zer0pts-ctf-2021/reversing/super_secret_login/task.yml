@@ -1,0 +1,10 @@
+---
+name: "Super Secret Login"
+id: super_secret_login   # optional: should match to /[a-z0-9_-]+/. if this isn't specified `name` is used as `id` too.
+description: >
+  Son Goku has developed a Login app, for mastering Ultra Instinct with the help of Grand Master <br />
+  Vegeta tried to unlock it, but he couldn't. Can you please help Vegeta?<br />Flag is of the format <code>zer0pts{[0-9a-z_\-\!]}<code>
+flag: zer0pts{1n_th3_w1ld_m4lw4r3s_us3_4ut0-i7!}
+author: x0r19x91
+tags: [reversing]
+is_survey: false

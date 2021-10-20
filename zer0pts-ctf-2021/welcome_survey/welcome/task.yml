@@ -1,0 +1,9 @@
+---
+name: Welcome
+description: >
+    <p>Welcome to zer0pts CTF 2021. All announcement, support, and the welcome flag are available in <a href="https://discord.gg/2u47XhrhPg" target="_blank">our Discord</a>.
+flag: "zer0pts{1375_4v0id_3nding_wi7h_zer0pts!}"
+author: zer0pts
+tags:
+    - welcome
+is_survey: false
