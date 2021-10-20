@@ -1,0 +1,17 @@
+categories:
+  - 'crypto'
+  - 'forensics'
+  - 'linux'
+  - 'reversing'
+  - 'miscellaneous'
+  - 'osint'
+  - 'pwn'
+  - 'web'
+registry: 'csictf'
+resources:
+  limits:
+    cpu: 100m
+    memory: 150Mi
+  requests:
+    cpu: 10m
+    memory: 30Mi
