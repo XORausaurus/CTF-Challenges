@@ -1,0 +1,8 @@
+build/*
+!build/bootloader/bootloader.bin
+!build/gatt_server_service_table_demo.bin
+!build/partitions_singleapp.bin
+sdkconfig
+sdkconfig.old
+*.swp
+.vagrant
